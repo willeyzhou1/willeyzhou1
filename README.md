@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! My name is Willey and I am a fullstack developer.<br><br>I am currently working on a google extension (for fun :D)<br>I am currently learning Javascript.
+👋 Hi! My name is Willey and I am a software engineer.
+<br><br>💻 I am currently working on a google extension (for fun :D)<br>📝 I am currently learning Javascript, SQL, and React Hooks.
 
 
 ## 🌐 Socials:
