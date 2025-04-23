@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi! My name is Willey and I am a software engineer.
-<br><br>💻 I am currently working on a UCSD Rice Purity website.)<br>📝 I am currently learning Javascript, SQL, and React Hooks.
+<br><br>💻 I am currently working on a UCSD Rice Purity website.<br>📝 I am currently learning Javascript, SQL, and React Hooks.
 
 
 ## 🌐 Socials:
