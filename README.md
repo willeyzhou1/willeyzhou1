@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi! My name is Willey and I am a software engineer.
-<br><br>💻 I am currently working on an NBA web scraper.<br>📝 I am currently learning Flask and BeautifulSoup.
+<br><br>💻 I am currently working on a trip planner site.<br>📝 I am currently learning TypeScript and Next.js.
 
 
 ## 🌐 Socials:
